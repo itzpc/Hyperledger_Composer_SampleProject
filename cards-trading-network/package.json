@@ -32,5 +32,8 @@
     "nyc": "latest",
     "mkdirp": "latest",
     "mocha": "latest"
+  },
+  "dependencies": {
+    "grpc": "^1.20.3"
   }
 }
